@@ -6,6 +6,10 @@
 
 Sponsor ralphanthonyparadillomabao on GitHub
 
+### Connect with me:
+
+[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />](https://www.facebook.com/cann3x/)
+
 
 ### Languages and Tools:
 
