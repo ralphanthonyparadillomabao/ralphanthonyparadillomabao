@@ -3,8 +3,7 @@
 - I'm passionate in coding focused on Laravel. Interested in Coding, tech OpenSource ❤️ ❤️
 - I’m currently learning everything 🤣
 - Aside from coding I enjoy playing guitar :guitar:
-
-Sponsor ralphanthonyparadillomabao on GitHub
+- Sponsor ralphanthonyparadillomabao on GitHub
 
 ### Connect with me:
 
