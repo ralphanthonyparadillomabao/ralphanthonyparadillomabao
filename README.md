@@ -1,8 +1,8 @@
 # Hi! I'm Ralph Anthony Mabao 👋🏼
 
-I'm a coding passionate focused on Laravel. Interested in Coding, tech OpenSource ❤️ ❤️
-
-Aside from coding I enjoy playing guitar :guitar:
+- I'm passionate in coding focused on Laravel. Interested in Coding, tech OpenSource ❤️ ❤️
+- I’m currently learning everything 🤣
+- Aside from coding I enjoy playing guitar :guitar:
 
 Sponsor ralphanthonyparadillomabao on GitHub
 
